@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="maritimeMilanV1_4_1/src"/>
+	<classpathentry kind="output" path="maritimeMilanV1_4_1/out/production/maritimeV1_4"/>
+</classpath>
